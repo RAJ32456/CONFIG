@@ -5,6 +5,6 @@
   "forceUpdate": false,
   "versionCode": 2,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/RAJ32456/riddhi_fetcher/releases/download/v1.0.0/app-release.apk",
+  "apkUrl": "https://github.com/RAJ32456/riddhi_fetcher/releases/download/v1.0.0/Riddhi_fetcher.apk",
   "changelog": "✨ RIDDHI FETCHER v1.0.0 UPDATES ✨\n-----------------------------------\n⚡ Added FastSwitch Offset (0x51C)\n🛡️ Auto Force-Stop on background swipe\n🔥 High-speed Internal & Aimkill Extractor\n☁️ Real-time Cloud Auto-Update System"
 }
