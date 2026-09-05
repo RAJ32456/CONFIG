@@ -1,5 +1,5 @@
 {
-  "serverStatus": "OFF",
+  "serverStatus": "ON",
   "maintenanceMessage": "🚧 SERVER MAINTENANCE IN PROGRESS 🚧\n\nFree Fire Game Update Detection Active.\nPlease wait while our servers update the latest offsets for safe gameplay!\n\n⏰ Estimated Time: 15-30 Minutes",
   "showUpdateButton": false,
   "forceUpdate": false,
